@@ -1,0 +1,24 @@
+nav > ul > li{
+    display: inline;
+    margin-right: 20px;
+    font-family: fantasy;
+    font-weight: bolder;
+    
+
+}
+nav li > a{
+    text-decoration: none;
+
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
+header p{
+    text-align: center;
+
+}
+header h2{
+    text-align: center;
+
+}
